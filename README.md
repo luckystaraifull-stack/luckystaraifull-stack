@@ -1,16 +1,4 @@
-# <div align="center">Hi there!</div>
-
-### <div align="center">💻 Full Stack Blockchain Developer 💻</div>
-
-### <div align="center">👨‍⚖️ Life Long Learner 👨‍⚖️</div>
-
-- 🔭 I'm currently working from home.
-
-- 🌱 I am currently learning DevOps Technology.
-
-- ❓ Ask for anything related to the Cosmos SDK and related technologies.
-
-- ⚡ Fun fact: Use spaces instead of tabs.
+# <div align="center">AI Software Engineer | Python | Machine Learning | AI Automation | Full-Stack Development</div>
 
 <br/>
 
